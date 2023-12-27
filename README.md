@@ -1,2 +1,2 @@
 # Curso de Javascript e TypeScript
- Repositorio para armazenar o conteúdo que venho estudando.
+ Repositório para guardar e documentar os códigos aprendidos em aula do curso de Javascript e Typescript do professor Luiz Otávio Miranda.
